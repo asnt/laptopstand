@@ -14,7 +14,7 @@ the two pieces thrice.
 
 ## Configuring
 
-The CAD file was produced with [FreeCAD](www.freecadweb.org) 0.16.
+The CAD file was produced with [FreeCAD](http://www.freecadweb.org) 0.16.
 
 You can adapt most dimensions and the laser kerf from the values in the
 spreadsheet named 'Dimensions' inside the CAD project.
